@@ -1,0 +1,13 @@
+*{
+background-color: wheat;
+color: navy;font-family: Georgia, serif;
+}
+#pageTitle{
+text-align: center;height: 50px;
+}
+h1, h3{
+border: 2px solid chocolate;
+}
+.boldMe{
+font-weight: bold;
+}
